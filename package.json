@@ -1,0 +1,34 @@
+{
+  "name": "reusable-button-package",
+  "version": "1.0.0",
+  "description": "A reusable button component for React",
+  "main": "dist/index.js",
+  "scripts": {
+    "test": "React-reusable-button-package",
+    "build": "webpack --mode production"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tamaghnaghosh0000/reusable-button-package.git"
+  },
+  "keywords": [
+    "Tamaghna@0000"
+  ],
+  "author": "Tamaghna G",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/tamaghnaghosh0000/reusable-button-package/issues"
+  },
+  "homepage": "https://github.com/tamaghnaghosh0000/reusable-button-package#readme",
+  "devDependencies": {
+    "@babel/core": "^7.22.9",
+    "@babel/preset-env": "^7.22.9",
+    "@babel/preset-react": "^7.22.5",
+    "babel-loader": "^9.1.3",
+    "webpack": "^5.88.2",
+    "webpack-cli": "^5.1.4"
+  },
+  "files": [
+    "dist/*"
+  ]
+}
