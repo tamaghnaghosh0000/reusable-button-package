@@ -3,6 +3,7 @@
   "version": "1.0.0",
   "description": "A reusable button component for React",
   "main": "dist/index.js",
+  "types": "dist/index.js",
   "scripts": {
     "test": "React-reusable-button-package",
     "build": "webpack --mode production"
